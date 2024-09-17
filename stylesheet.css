@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+nav li{
+    display: inline;
+    font-size: 20px;
+    padding: 8px;
+}
+
+body {
+    font-size: 17px;
+    padding: 30px;
+}
